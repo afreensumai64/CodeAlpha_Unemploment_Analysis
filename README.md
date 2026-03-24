@@ -1,4 +1,4 @@
-# CodeAlpha_Unemploment_Analysis
+# 📊 Unemployment Analysis with Python
 
 ## 📌 Project Overview
 This project analyzes unemployment rate data to understand trends, patterns, and the impact of COVID-19 on unemployment. The analysis is performed using Python with data cleaning, exploration, and visualization techniques.
