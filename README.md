@@ -26,7 +26,7 @@ This project analyzes unemployment rate data to understand trends, patterns, and
 
 ## 📂 Dataset
 The dataset contains unemployment rate information across different regions and time periods. 
-🔗 [Download Dataset - Unemployment in India](https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india?resource=download)
+🔗 [Download Dataset](https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india?resource=download)
 
 ---
 
